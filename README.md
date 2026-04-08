@@ -1,10 +1,4 @@
 # Git-Learning-Journey
-Perfect 😏 now we’re making this portfolio-level — this is what actually impresses recruiters.
-
-You can copy-paste this directly into your README.md 👇
-
-⸻
-
 🚀 Git Learning Journey
 
 Mastering Version Control in 3 Days
