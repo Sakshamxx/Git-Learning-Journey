@@ -103,7 +103,7 @@ Saksham Chauhan
 
 [Github](https://github.com/Sakshamxx)
 
-[LinkedIn](www.linkedin.com/in/saksham-chauhan-b18bb5277)
+[LinkedIn](https://www.linkedin.com/in/saksham-chauhan-b18bb5277/)
 
 ⸻
 
