@@ -98,9 +98,13 @@ To confidently use Git & GitHub in real-world projects and collaborate like a pr
 ⸻
 
 ⚡ Author
+
 Saksham Chauhan
+
 [Github](https://github.com/Sakshamxx)
+
 [LinkedIn](www.linkedin.com/in/saksham-chauhan-b18bb5277)
+
 ⸻
 
 ⭐ If you find this useful
