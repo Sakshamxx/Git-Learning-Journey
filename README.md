@@ -1,5 +1,4 @@
 # Git-Learning-Journey
-🚀 Git Learning Journey
 
 Mastering Version Control in 3 Days
 
